@@ -113,17 +113,17 @@ Where:
 ## 📸 Screenshots
 
 ### Learning Path
-<img src="screenshots/learning_path.png" alt="Learning Path Screen" width="800"/>
+<img width="1180" height="820" alt="LEARNING_PATH" src="https://github.com/user-attachments/assets/6ca11580-c403-4242-a5fd-e9b41de4b9c8" />
 
 *Modular structure with 5 interactive learning modules*
 
 ### Ground Effect Lab
-<img src="screenshots/ground_effect.png" alt="Ground Effect Screen" width="800"/>
+<img width="1180" height="820" alt="GROUND_EFFECT" src="https://github.com/user-attachments/assets/91fedacc-aaf3-4e46-b03e-99ad59c66606" />
+
 
 *Dual-panel layout: 3D experimentation (left) + educational content (right)*
 
 ### Live Physics Visualization
-<img src="screenshots/live_chart.png" alt="Live Chart" width="800"/>
 
 *Real-time chart updates as students adjust parameters*
 
@@ -220,8 +220,8 @@ AeroLab was inspired by her 13-year-old brother Sharan, who dreams of becoming a
 
 ### Connect
 - 📧 Email: shloka.shetty@mitwpu.edu.in
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: https://www.linkedin.com/in/shloka-g-shetty/
+- 🐙 GitHub: https://github.com/sagusoky
 
 ---
 
@@ -283,7 +283,7 @@ See [LICENSE.md](LICENSE.md) for full terms.
 
 For press inquiries, collaboration opportunities, or educational licensing:
 - 📧 Email: shloka.shetty@mitwpu.edu.in
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: https://www.linkedin.com/in/shloka-g-shetty/
 
 For technical questions about the codebase (educational purposes only):
 - Open an issue in this repository (viewing only, no contributions accepted)
